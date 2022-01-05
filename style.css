@@ -1,0 +1,104 @@
+#main-body{
+  margin: 0;
+  background-color: gainsboro
+}
+
+#main-navigation-bar{
+  background-color: rgb(28, 4, 112);
+  margin: 0;
+  padding: 16px 16px;
+  text-align: center;
+}
+
+.main-tab{
+  color: white;
+  padding: 8px 24px;
+
+}
+
+#main-heading{
+  text-align: center;
+  margin: 24px;
+  font-size: 24px;
+}
+
+.main-para{
+  font-size: 16px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+#main-footer{
+  margin-top: 48px;
+  background-color: rgb(28, 4, 112);
+  text-align: center;
+  padding: 48px 24px;
+  color: white;
+  font-size: 16px;
+}
+
+#trips-heading{
+  text-align: center;
+  font-size: 24px;
+
+}
+
+#image-table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-card{
+  margin: 16px 16px;
+  background-color: white;
+}
+
+.trips-label{
+  text-align: center;
+  font-size: 18px;
+  padding-bottom: 4px;
+}
+
+form{
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 700px;
+  padding: 24px 24px;
+}
+
+.form-input{
+  padding: 24px 48px;
+}
+
+.form-field{
+  font-size: 17px;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  height: 100%;
+}
+
+#submit-button{
+  font-size: 17px;
+  background-color: rgb(28, 4, 112);
+  padding: 12px 24px;
+  color: white;
+  cursor: pointer;
+}
+
+#contact-footer{
+  background-color: rgb(28, 4, 112);
+  margin-top: 24px;
+  text-align: center;
+  font-size: 17px;
+  color: white;
+  padding: 24px 24px;
+}
+
+.social-icon, #footer-heading, #address{
+  padding: 24px 24px;
+}
